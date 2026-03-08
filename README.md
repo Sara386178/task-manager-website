@@ -13,3 +13,4 @@ Team Project using Git, GitHub, and Jira.
 - Jira used for issue tracking
 - GitHub used for repository, branches, and pull requests
 - Git used for version control
+Jira integration completed for SCRUM-18.
